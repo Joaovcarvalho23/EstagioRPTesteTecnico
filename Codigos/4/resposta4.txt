@@ -1,0 +1,3 @@
+Na primeira visita, ligue o primeiro interruptor e espere alguns minutos. Depois, desligue ele e ligue o segundo interruptor. Entre na sala da lâmpada. Se a lâmpada estiver acesa, mas com a luz fraca, o primeiro interruptor controla a lâmpada. Se estiver apagada, toque na lâmpada: se estiver quente, o segundo interruptor controla a lâmpada. Se estiver fria, o terceiro interruptor controla a lâmpada. 
+
+Na segunda visita, o primeiro interruptor está desligado e o segundo interruptor está ligado. Desligue o segundo interruptor, vá até a sala e verifique a lâmpada. Se ela estiver acesa, o segundo interruptor a controla. Se estiver apagada, porém quente, o terceiro interruptor controla a lâmpada. 
